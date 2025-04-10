@@ -5,7 +5,7 @@ defaultContentLanguage: en
 languageCode: en
 languageName: English
 hasCJKLanguage: no
-pagination.pagerSize: 12
+paginate: 12
 googleAnalytics: ''
 copyright: ''
 enableRobotsTXT: yes
@@ -113,7 +113,7 @@ params:
   home:
     protocols:
       enable: yes
-      pagination.pagerSize: 6
+      paginate: 6
     profile:
       avatarURL: /images/avatar.png
       disclaimer: 'Computational Biology | Protein Engineering | Analytical Chemistry'
@@ -127,7 +127,7 @@ params:
   images: /logo.png
   list:
     dateFormat: 01-02
-    pagination.pagerSize: 20
+    paginate: 20
     rss: 10
   page:
     code:
@@ -238,7 +238,7 @@ params:
     type: algolia
   section:
     dateFormat: 01-02
-    pagination.pagerSize: 20
+    paginate: 20
     rss: 10
   seo:
     image: /images/Apple-Devices-Preview.png
@@ -289,6 +289,8 @@ Permalinks:
   posts: :filename
 privacy:
   googleAnalytics: {}
+  twitter:
+    enableDNT: yes
   youtube:
     privacyEnhanced: yes
 mediaTypes:
@@ -313,4 +315,5 @@ outputs:
   taxonomy:
     - HTML
     - RSS
+  taxonomyTerm: HTML
 
