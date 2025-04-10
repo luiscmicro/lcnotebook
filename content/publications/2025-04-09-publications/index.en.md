@@ -42,6 +42,11 @@ library:
 seo:
   images: []
 ---
+### 2025
+**Testing changes**  
+*I. Muñoz-Gutiérrez, L. Cantu, J. Shanahan, M. Girguis, M. de la Cruz, ...*  
+📄 *mSphere* 9(6), [e00252-24](https://doi.org/10.1128/msphere.00252-24)
+
 ### 2024
 **Cryptic environmental conjugative plasmid recruits a novel hybrid transposon resulting in a new plasmid with higher dispersion potential**  
 *I. Muñoz-Gutiérrez, L. Cantu, J. Shanahan, M. Girguis, M. de la Cruz, ...*  
