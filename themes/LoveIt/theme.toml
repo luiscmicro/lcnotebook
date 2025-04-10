@@ -2,6 +2,7 @@ name = "LoveIt"
 license = "MIT"
 licenselink = "https://github.com/dillonzq/LoveIt/blob/master/LICENSE"
 description = "A Clean, Elegant but Advanced Hugo Theme for Hugo."
+relativeURLs = true
 
 homepage = "https://hugoloveit.com"
 demosite = "https://hugoloveit.com"
