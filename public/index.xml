@@ -4,7 +4,7 @@
         <link>https://www.cantulab.com/</link>
         <description>Hugo theme - LoveIt</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>luis_cantu@berkeley.edu (Luis Cantu)</managingEditor>
-            <webMaster>luis_cantu@berkeley.edu (Luis Cantu)</webMaster><lastBuildDate>Wed, 09 Apr 2025 00:00:00 &#43;0000</lastBuildDate>
+            <webMaster>luis_cantu@berkeley.edu (Luis Cantu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 09 Apr 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://www.cantulab.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Analytical Chemistry</title>
@@ -12,7 +12,7 @@
     <pubDate>Wed, 09 Apr 2025 00:00:00 &#43;0000</pubDate>
     <author>Luis Cantu</author>
     <guid>https://www.cantulab.com/2025-04-09-analytical-chemistry/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[Analytical Chemistry Techniques to detect novel antimicrobials]]></description>
 </item>
 <item>
     <title>Genomes &amp; Regulatory Networks</title>
@@ -20,7 +20,7 @@
     <pubDate>Wed, 09 Apr 2025 00:00:00 &#43;0000</pubDate>
     <author>Luis Cantu</author>
     <guid>https://www.cantulab.com/2025-04-09-genomes-regulatory-networks/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[Evolution of actinomycetota and genome mining]]></description>
 </item>
 <item>
     <title>Software Development</title>
@@ -28,7 +28,7 @@
     <pubDate>Wed, 09 Apr 2025 00:00:00 &#43;0000</pubDate>
     <author>Luis Cantu</author>
     <guid>https://www.cantulab.com/2025-04-09-software-development/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[Software development to detect evolution]]></description>
 </item>
 <item>
     <title>Microbial Interactions</title>
