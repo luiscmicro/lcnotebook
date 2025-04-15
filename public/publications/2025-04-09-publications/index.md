@@ -1,9 +1,9 @@
 # Publications
 
 ### 2025
-**Testing changes**  
-*I. Muñoz-Gutiérrez, L. Cantu, J. Shanahan, M. Girguis, M. de la Cruz, ...*  
-📄 *mSphere* 9(6), [e00252-24](https://doi.org/10.1128/msphere.00252-24)
+**Why do filamentous Actinomycetota produce such a vast array of specialized metabolites?**
+*Cantu Morin LM, Dekoninck K, Sridhar V, et al ...*  
+📄 *Annual Review of Microbiology.* (In press)
 
 ### 2024
 **Cryptic environmental conjugative plasmid recruits a novel hybrid transposon resulting in a new plasmid with higher dispersion potential**  

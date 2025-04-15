@@ -120,14 +120,43 @@ University of California, Irvine
 
 ---
 # Awards
+- 2023  GRC CSURM Fellowship
+- 2020  NSF Graduate Research Fellowship  
+- 2019 	AAAS best student e-poster presentation in Medicine and Public Health
+- 2018 	UCI Dean’s Honor List
+- 2017 	UCI Dean’s Honor List
+- 2017 	Maximizing Access to Research Careers NIH Grant
+- 2017 	Minority Health and Health Disparities International Research Training NIH Grant.
+- 2016 	ABRCMS Best Poster Presenter Award in Microbiology
+- 2016 	Initiative for Maximizing Student Development NIH Grant MBRS
+- 2016 	Berniece and “Bud” Fricker Memorial Scholarship
+- 2016 	Charles A. Lipot Memorial Scholarship
+- 2015 	Orange Coast College President's Honor List
+- 2014	Orange Coast College Dean's Honor List
+- 2014 	Navy Achievement Medal. For retrograde operations in Afghanistan, transported and recycled $11M in equipment
+- 2012 	Navy Meritorious Unit Commendation for participation in operation Tomodachi in support of disaster relief following the 2011 tsunami in Japan
 
-# Talks
-
+---
 # Poster Presentations
+
+- 2025 20th International Symposium on the Biology of Actinomycetes, Egmond aan Zee, the Netherlands
+- 2023 GRC Bacterial Cell Biology and Development, Manchester, NH
+- 2022 19th International Symposium on the Biology of Actinomycetes, Toronto, ON, Canada
+- 2019 American Association for the Advancement of Science, Washington, DC
+- 2018 ABRCMS, Indianapolis, IN
+- 2018 American Association for the Advancement of Science, Boston, MA
+- 2017 Sigma Xi Conference, Raleigh, NC
+- 2016 ABRCMS, Tampa, FL
+
+---
 # Technical Skills
 
 **Languages:**  
 Python · R · Java · C++ · C# · .NET
+
+**Laboratory skills:**
+
+LCMS  · HPLC · Tandem mass spectrometry · Protein Purification (FPLC) · Enzyme assays (Kinnetics, Pulldowns, Phostag) · Immunoassays (Western) · Molecular assays (DNA, RNA) · Metabolic assays · Cell-based assays
 
 **Tools & Software:**  
 AutoCAD · ChemDraw · Chimera · PyMOL · Docker · Illustrator · Fusion · Gaussian · TURBOMOLE · MS-DIAL

@@ -7,7 +7,7 @@ categories: ["Interests"]
 tags: []
 subtitle: ''
 summary: "Software development to detect evolution"
-featured: /images/microbes/AA4-SCO2.jpg
+featured: /images/features/software-lc.png
 order: 4
 lastmod: '2025-04-09T02:43:27-07:00'
 authorLink: ''

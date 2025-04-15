@@ -7,8 +7,8 @@ categories: ["Interests"]
 tags: []
 subtitle: ''
 summary: "Evolution of actinomycetota and genome mining"
-featured: /images/microbes/AA4-SCO2.jpg
-order: 2
+featured: /images/features/genomes.png
+order: 3
 lastmod: '2025-04-09T02:16:24-07:00'
 authorLink: ''
 description: ''

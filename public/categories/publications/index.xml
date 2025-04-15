@@ -4,7 +4,7 @@
         <link>https://www.cantulab.com/categories/publications/</link>
         <description>Publications - Category - LCNotebook</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>luis_cantu@berkeley.edu (Luis Cantu)</managingEditor>
-            <webMaster>luis_cantu@berkeley.edu (Luis Cantu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 09 Apr 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://www.cantulab.com/categories/publications/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>luis_cantu@berkeley.edu (Luis Cantu)</webMaster><lastBuildDate>Wed, 09 Apr 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://www.cantulab.com/categories/publications/" rel="self" type="application/rss+xml" /><item>
     <title>Curriculum Vitae</title>
     <link>https://www.cantulab.com/cv/</link>
     <pubDate>Wed, 09 Apr 2025 00:00:00 &#43;0000</pubDate>
@@ -85,8 +85,36 @@ University of California, Irvine</p>
 </ul>
 <hr>
 <h1 id="awards">Awards</h1>
-<h1 id="talks">Talks</h1>
+<ul>
+<li>2023  GRC CSURM Fellowship</li>
+<li>2020  NSF Graduate Research Fellowship</li>
+<li>2019 	AAAS best student e-poster presentation in Medicine and Public Health</li>
+<li>2018 	UCI Dean’s Honor List</li>
+<li>2017 	UCI Dean’s Honor List</li>
+<li>2017 	Maximizing Access to Research Careers NIH Grant</li>
+<li>2017 	Minority Health and Health Disparities International Research Training NIH Grant.</li>
+<li>2016 	ABRCMS Best Poster Presenter Award in Microbiology</li>
+<li>2016 	Initiative for Maximizing Student Development NIH Grant MBRS</li>
+<li>2016 	Berniece and “Bud” Fricker Memorial Scholarship</li>
+<li>2016 	Charles A. Lipot Memorial Scholarship</li>
+<li>2015 	Orange Coast College President&rsquo;s Honor List</li>
+<li>2014	Orange Coast College Dean&rsquo;s Honor List</li>
+<li>2014 	Navy Achievement Medal. For retrograde operations in Afghanistan, transported and recycled $11M in equipment</li>
+<li>2012 	Navy Meritorious Unit Commendation for participation in operation Tomodachi in support of disaster relief following the 2011 tsunami in Japan</li>
+</ul>
+<hr>
 <h1 id="poster-presentations">Poster Presentations</h1>
+<ul>
+<li>2025 20th International Symposium on the Biology of Actinomycetes, Egmond aan Zee, the Netherlands</li>
+<li>2023 GRC Bacterial Cell Biology and Development, Manchester, NH</li>
+<li>2022 19th International Symposium on the Biology of Actinomycetes, Toronto, ON, Canada</li>
+<li>2019 American Association for the Advancement of Science, Washington, DC</li>
+<li>2018 ABRCMS, Indianapolis, IN</li>
+<li>2018 American Association for the Advancement of Science, Boston, MA</li>
+<li>2017 Sigma Xi Conference, Raleigh, NC</li>
+<li>2016 ABRCMS, Tampa, FL</li>
+</ul>
+<hr>
 <h1 id="technical-skills">Technical Skills</h1>
 <p><strong>Languages:</strong><br>
 Python · R · Java · C++ · C# · .NET</p>
@@ -102,9 +130,9 @@ Spanish (native), English (native)</p>]]></description>
     <author>Luis Cantu</author>
     <guid>https://www.cantulab.com/publications/2025-04-09-publications/</guid>
     <description><![CDATA[<h3 id="2025">2025</h3>
-<p><strong>Testing changes</strong><br>
-<em>I. Muñoz-Gutiérrez, L. Cantu, J. Shanahan, M. Girguis, M. de la Cruz, &hellip;</em><br>
-📄 <em>mSphere</em> 9(6), <a href="https://doi.org/10.1128/msphere.00252-24" target="_blank" rel="noopener noreffer ">e00252-24</a></p>
+<p><strong>Why do filamentous Actinomycetota produce such a vast array of specialized metabolites?</strong>
+<em>Cantu Morin LM, Dekoninck K, Sridhar V, et al &hellip;</em><br>
+📄 <em>Annual Review of Microbiology.</em> (In press)</p>
 <h3 id="2024">2024</h3>
 <p><strong>Cryptic environmental conjugative plasmid recruits a novel hybrid transposon resulting in a new plasmid with higher dispersion potential</strong><br>
 <em>I. Muñoz-Gutiérrez, L. Cantu, J. Shanahan, M. Girguis, M. de la Cruz, &hellip;</em><br>

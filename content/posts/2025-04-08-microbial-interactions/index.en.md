@@ -8,7 +8,7 @@ tags: []
 subtitle: ''
 summary: "Microbial interactions are central to the ecology and evolution of microbial life, shaping community structure, driving specialized metabolite production, and offering insight into the molecular strategies that microbes use to communicate, compete, and cooperate."
 featured: /images/microbes/AA4-SCO2.jpg
-order: 1
+order: 2
 lastmod: '2025-04-08T02:09:39-07:00'
 authorLink: ''
 description: ''

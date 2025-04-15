@@ -215,7 +215,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.home.profile]
       enable = true
       avatarURL = "/images/avatar.png"
-      subtitle = "Computational Biology | Protein Engineering | Analytical Chemistry"
+      subtitle = "Computational Biology | Protein Engineering | Analytical Chemistry | LCMS · FPLC · Biochemistry · Software Development"
       typeit = false
       social = true
     [params.home.posts]
@@ -433,7 +433,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Comment config
     # 评论系统设置
     [params.page.comment]
-      enable = true
+      enable = false
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
