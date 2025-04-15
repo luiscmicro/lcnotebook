@@ -7,7 +7,7 @@ categories: ["Interests"]
 tags: []
 subtitle: ''
 summary: "Analytical Chemistry Techniques to detect novel antimicrobials"
-featured: /images/features/amychelin.png
+featured: ./images/features/amychelin.png
 order: 1
 lastmod: '2025-04-09T02:35:14-07:00'
 authorLink: ''
@@ -37,7 +37,7 @@ mapbox: ~
 share:
   enable: yes
 comment:
-  enable: yes
+  enable: no
 library:
   css: ~
   js: ~

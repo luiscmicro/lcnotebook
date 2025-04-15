@@ -156,7 +156,7 @@ Python · R · Java · C++ · C# · .NET
 
 **Laboratory skills:**
 
-LCMS  · HPLC · Tandem mass spectrometry · Protein Purification (FPLC) · Enzyme assays (Kinnetics, Pulldowns, Phostag) · Immunoassays (Western) · Molecular assays (DNA, RNA) · Metabolic assays · Cell-based assays
+LCMS · HPLC · Tandem mass spectrometry · Protein Purification (FPLC) · Enzyme assays (Kinnetics, Pulldowns, Phostag) · Immunoassays (Western) · Molecular assays (DNA, RNA) · Metabolic assays · Cell-based assays
 
 **Tools & Software:**  
 AutoCAD · ChemDraw · Chimera · PyMOL · Docker · Illustrator · Fusion · Gaussian · TURBOMOLE · MS-DIAL

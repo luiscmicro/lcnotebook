@@ -7,7 +7,7 @@ categories: ["Interests"]
 tags: []
 subtitle: ''
 summary: "Evolution of actinomycetota and genome mining"
-featured: /images/features/genomes.png
+featured: ./images/features/genomes.png
 order: 3
 lastmod: '2025-04-09T02:16:24-07:00'
 authorLink: ''
@@ -37,7 +37,7 @@ mapbox: ~
 share:
   enable: yes
 comment:
-  enable: yes
+  enable: no
 library:
   css: ~
   js: ~
