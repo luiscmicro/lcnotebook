@@ -34,7 +34,7 @@ mapbox: ~
 share:
   enable: yes
 comment:
-  enable: yes
+  enable: no
 library:
   css: ~
   js: ~
