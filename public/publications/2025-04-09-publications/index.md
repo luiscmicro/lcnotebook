@@ -2,6 +2,7 @@
 
 ### 2025
 **Why do filamentous Actinomycetota produce such a vast array of specialized metabolites?**
+
 *Cantu Morin LM, Dekoninck K, Sridhar V, et al ...*  
 📄 *Annual Review of Microbiology.* (In press)
 
